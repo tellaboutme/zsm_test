@@ -24,7 +24,7 @@
     "fast-check": "catalog:",
     "typescript": "catalog:",
     "vitest": "catalog:",
-    "wrangler": "4.151.0"
+    "wrangler": "4.151.1"
   },
   "exports": {
     "./app": "./src/app.ts",
